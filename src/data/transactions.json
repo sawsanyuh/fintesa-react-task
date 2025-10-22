@@ -1,0 +1,8 @@
+[
+  { "id": "TXN-10001", "customerName": "Sawsan Mohammad", "amount": 120.5, "currency": "JOD", "date": "2025-10-19", "status": "Completed", "description": "Payment for October subscription" },
+  { "id": "TXN-10002", "customerName": "Amira Saleh", "amount": 45.0, "currency": "USD", "date": "2025-10-20", "status": "Pending", "description": "Top-up balance" },
+  { "id": "TXN-10003", "customerName": "Khaled Omar", "amount": 250.75, "currency": "EUR", "date": "2025-09-15", "status": "Failed", "description": "Failed charge for order #543" },
+  { "id": "TXN-10004", "customerName": "Leila Haddad", "amount": 9.99, "currency": "USD", "date": "2025-08-01", "status": "Completed", "description": "One-time fee" },
+  { "id": "TXN-10005", "customerName": "Zain Almasri", "amount": 500.0, "currency": "JOD", "date": "2025-10-10", "status": "Completed", "description": "Annual subscription" },
+  { "id": "TXN-10006", "customerName": "Rana Yusef", "amount": 78.2, "currency": "USD", "date": "2025-10-21", "status": "Pending", "description": "Service charge" }
+]
